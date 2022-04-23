@@ -43,6 +43,7 @@ class BinarySearchTree(object):
 
 
 
+
 # Testing the BST
 r = Node(3)
 
@@ -57,4 +58,4 @@ print(node.in_order_place(r))
 print("Pre Order Traversal")
 print(node.pre_order_place(r))
 print("Post Order Traversal")
-print(node.post_order_place(r))                      
+print(node.post_order_place(r))                     
